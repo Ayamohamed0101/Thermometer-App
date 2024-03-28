@@ -1,2 +1,1 @@
-# Simple-.NET-Projects
-.NET 
+Thermometer App
