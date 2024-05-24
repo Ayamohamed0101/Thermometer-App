@@ -1,0 +1,15 @@
+D:\course 20 codes\Complete C20\Temperature Change Event Example\bin\Debug\Temperature Change Event Example.exe.config
+D:\course 20 codes\Complete C20\Temperature Change Event Example\bin\Debug\Temperature Change Event Example.exe
+D:\course 20 codes\Complete C20\Temperature Change Event Example\bin\Debug\Temperature Change Event Example.pdb
+D:\course 20 codes\Complete C20\Temperature Change Event Example\bin\Debug\Guna.UI2.dll
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.csproj.AssemblyReference.cache
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature_Change_Event_Example.Form1.resources
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature_Change_Event_Example.Properties.Resources.resources
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.csproj.GenerateResource.cache
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.csproj.CoreCompileInputs.cache
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.csproj.CopyComplete
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.exe
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature Change Event Example.pdb
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature_Change_Event_Example.TempratureMode.resources
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature_Change_Event_Example.ctrlTemp.resources
+D:\course 20 codes\Complete C20\Temperature Change Event Example\obj\Debug\Temperature_Change_Event_Example.main.resources
