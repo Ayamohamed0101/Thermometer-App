@@ -19,9 +19,6 @@
 ## Feature goals
 
 
-
-I planned to implement this step by step. The key things to implement:
-
 - [ ] Connect to one fixed thermostat
 - [ ]  Implement all commands for manipulating thermostats and receive statuses (No Gui yet:
     - [ ] Read current status.
@@ -30,24 +27,11 @@ I planned to implement this step by step. The key things to implement:
     - [ ] Switch to eco temperature.
     - [ ] Set target temperature.
     - [ ] Enable / disable thermostat.
-    - [ ] Enable / disable boost.
     - [ ] Read / Write profile for a day.
     - [ ] Set comfort temperature.
-    - [ ] Set eco temperature.
     - [ ] Set window mode (interval and temperature)
     - [ ] Set offset temperature
     - [ ] Lock / unlock thermostat
-    - [ ]  Factory reset
-- [ ]  Implement basic gui for:
-    - [ ]  Scan for available thermostats.
-    - [ ]  Connect to thermostats.
-    - [ ]  Send commands and receive statuses to thermostats.
-- [ ]  Make this basic program work on a Raspberry Pi.
-- [ ]  Implement advanced management for thermostats:
-    - [ ]  Possibility to save thermostat settings in a persistent file
-    - [ ]  Define rooms in the gui
     - [ ]  Save thermostats with settings per room
     - [ ]  Save a heating program for each day of the week.
-    - [ ]  Save several profiles per day. e.g (work day, vacation day, out of house day)
     - [ ]  Add a calendar to manage for each day of the year which profile for heating should be used.
-- [ ]  If one Raspberry Pi has not enough range it would be cool to have a second smaller Raspberry Pi which works as a node to extend the range to of the bluetooth.
